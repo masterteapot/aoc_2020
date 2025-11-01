@@ -1,2 +1,4 @@
 (library
- (name aoc_2020))
+ (name aoc_2020)
+ (libraries batteries)
+ )
